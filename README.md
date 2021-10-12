@@ -9,6 +9,13 @@ In this project you can:
 - Use ES6 `import` and `export`
 - Have intellisense in VS Code for the Jest [matchers](https://jestjs.io/docs/using-matchers).
 
+## Installing the dependencies
+
+```
+npm install -D @babel/preset-env jest
+npm install -S @types/jest
+```
+
 ## Copying the project
 
 You can simply take the `babel.config.js` file and add the dev and main dependencies from the `package.json` file to copy the project in order to run Jest in your own project.
