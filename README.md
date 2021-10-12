@@ -9,6 +9,16 @@ In this project you can:
 - Use ES6 `import` and `export`
 - Have intellisense in VS Code for the Jest [matchers](https://jestjs.io/docs/using-matchers).
 
+## Setting Up the Project
+
+To set up the project you need to initialise Node:
+
+```
+npm init -y
+```
+
+This will then generate the `package.json` file.
+
 ## Installing the dependencies
 
 ```
